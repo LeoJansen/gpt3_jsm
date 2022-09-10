@@ -39,7 +39,7 @@
     flex: 2;
     width: 100%;
     min-height: 50px;
-    background: var(--font-family);
+    background: var(--color-footer);
     border-radius: 5px 0px 0px 5px;
     font-family: var(--font-family);
     font-style: normal;
@@ -50,4 +50,11 @@
     padding: 0 1rem;
     outline: none;
     color: #fff;
+}
+
+
+.gpt3__header-content__input button {
+    background: #FF4820;
+    border-radius: 5px 0px 0px 5px;
+    
 }
