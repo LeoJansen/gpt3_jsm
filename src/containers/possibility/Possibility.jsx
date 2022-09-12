@@ -3,7 +3,9 @@ import './possibility.css'
 
 const Possibility = () => {
   return (
-    <div>Possibility</div>
+    <div className='gpt__possibility' id="possibility">
+        
+    </div>
   )
 }
 
